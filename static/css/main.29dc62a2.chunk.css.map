@@ -1,0 +1,1 @@
+{"version":3,"sources":["thing.scss"],"names":[],"mappings":"AAEA,KACI,UAFQ,CAGR,kBAJmB","file":"main.29dc62a2.chunk.css","sourcesContent":["$primary-color: #bc8f8f;\n$white: #FFF;\nspan {\n    color: $white;\n    background: $primary-color; \n}"]}
